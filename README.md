@@ -83,9 +83,10 @@ python3 main.py
 
 ---
 
-## 📸 Demo
+## 📸 Demo & Laporan
 
-📺 [Tonton di YouTube (Unlisted)](https://youtu.be/PgH_rmn9W7Y?feature=shared)
+🎬 [Tonton Demo di YouTube (Unlisted)](https://youtu.be/PgH_rmn9W7Y?feature=shared)  
+📊 [Lihat Laporan PPT di Canva](https://www.canva.com/design/DAGrEH4QHBo/GgWrFAEyomFC9XkPwYphJw/view?utm_content=DAGrEH4QHBo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf832a7bef6)
 
 ---
 
